@@ -1,0 +1,86 @@
+tbody td {
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+tbody th {
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+thead th {
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+thead td {
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+#red {
+    color: red;
+}
+
+#gray {
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+tfoot th {
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+tfoot td {
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: darkblue 2px 2px;
+    text-align: center;
+    width: 2cm;
+    height: 1.5cm;
+    font-size: 12px;
+    color: darkblue;
+}
+
+table {
+    border: 5px;
+    border-radius: 12%;
+    border-color: black;
+}
